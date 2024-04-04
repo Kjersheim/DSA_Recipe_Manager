@@ -1,0 +1,2 @@
+# Ignoring the pycache for git
+__pycache__/
